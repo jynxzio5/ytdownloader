@@ -1,0 +1,14 @@
+C:\Users\redxx\firtsapp\obj\Debug\net6.0-windows\YouTubeDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redxx\firtsapp\obj\Debug\net6.0-windows\YouTubeDownloader.AssemblyInfoInputs.cache
+C:\Users\redxx\firtsapp\obj\Debug\net6.0-windows\YouTubeDownloader.AssemblyInfo.cs
+C:\Users\redxx\firtsapp\obj\Debug\net6.0-windows\YouTubeDownloader.csproj.CoreCompileInputs.cache
+C:\Users\redxx\firtsapp\bin\Debug\net6.0-windows\YouTubeDownloader.exe
+C:\Users\redxx\firtsapp\bin\Debug\net6.0-windows\YouTubeDownloader.deps.json
+C:\Users\redxx\firtsapp\bin\Debug\net6.0-windows\YouTubeDownloader.runtimeconfig.json
+C:\Users\redxx\firtsapp\bin\Debug\net6.0-windows\YouTubeDownloader.dll
+C:\Users\redxx\firtsapp\bin\Debug\net6.0-windows\YouTubeDownloader.pdb
+C:\Users\redxx\firtsapp\obj\Debug\net6.0-windows\YouTubeDownloader.dll
+C:\Users\redxx\firtsapp\obj\Debug\net6.0-windows\refint\YouTubeDownloader.dll
+C:\Users\redxx\firtsapp\obj\Debug\net6.0-windows\YouTubeDownloader.pdb
+C:\Users\redxx\firtsapp\obj\Debug\net6.0-windows\YouTubeDownloader.genruntimeconfig.cache
+C:\Users\redxx\firtsapp\obj\Debug\net6.0-windows\ref\YouTubeDownloader.dll

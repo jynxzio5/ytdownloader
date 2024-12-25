@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SRZT3cFW3w/6HrCJr6J+2HDAOUiuAzjjFF2jfSPE7c2XkhTP411CsujToHf3OU2M7+Y6Vj6jN5YssLagphLuvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\redxx\\firtsapp\\YouTubeDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\redxx\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\redxx\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\redxx\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\redxx\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
